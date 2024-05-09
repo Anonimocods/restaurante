@@ -56,7 +56,7 @@
     display: flex;
     align-items: start;
     justify-content: end;
-    width: 70%;
+    width: 100%;
     z-index: 2;
 }
 
@@ -67,8 +67,8 @@
 
 .shape {
     background-color: #ffe8b4;
-    width: 50%;
-    height: 80%;
+    width: 48%;
+    height: 83%;
     position: absolute;
     border-radius: 30% 30% 0% 20%;
     top: 0;
