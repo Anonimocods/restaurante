@@ -43,10 +43,7 @@ header{
     display: none;
 }
 
-i .abas{
-    display: none;
-    z-index: 9999;
-}
+
 
 @media screen and (max-width: 1170px){
     #nav_list,
